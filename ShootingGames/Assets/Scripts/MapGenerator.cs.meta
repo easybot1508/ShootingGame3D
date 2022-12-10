@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2aae12902e067ef4eb4e3342539bc622
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 6079792616025934088, guid: 9f286b29d762dbb439294f6ae3b9cafd, type: 3}
+  - obstaclePrefab: {fileID: 2045927751748320889, guid: b3808959f57b8e1409d2b9dc110328a9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
